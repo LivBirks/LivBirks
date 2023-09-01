@@ -2,9 +2,9 @@ Hi 👋
 ===========================================
 
 I'm Liv.
-Currently working full time, as a Customer Sucess Engineer (CSE) at SafetyCulture, and studying programming in between! Python was my first language and I'm currently learning Javascript.
+Currently working full time, as a Customer Sucess Engineer (CSE) at SafetyCulture, and studying programming in between. Python was my first language and I'm currently learning Javascript.
 
-* 🌍  I'm based in the UK!
+* 🌍  UK-based
 
 ### Skills
 

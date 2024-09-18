@@ -2,7 +2,7 @@ Hi 👋
 ===========================================
 
 I'm Liv.
-Currently working full time, as a Senior Customer Sucess Engineer (CSE) at SafetyCulture, and studying programming in between. Python was my first language and I'm currently learning Javascript, CSS, HTML, Ruby & C#.
+Currently working full time, as a Senior Customer Sucess Engineer (CSE) at SafetyCulture, and I am a software development apprentice. Proficient in Python. Learning Javascript, CSS, HTML, Ruby & C#.
 
 * 🌍  Manchester, UK
 

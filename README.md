@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Liv</h1>
 <h3 align="center">A Senior Customer Success Engineer at SafetyCulture, based in Manchester UK.</h3>
 
-- 🔭 I’m currently working on [developing Workato Connector SDKs](https://github.com/LivBirks/simpro-workato-connector)
+- 🔭 I’m currently working on: [developing Workato Connector SDKs](https://github.com/LivBirks/simpro-workato-connector)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning: **C#**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at: [Github](Github)
 
-- 💬 Ask me about **Integrations and iPaas tools**
+- 💬 Ask me about: **Integrations and iPaas tools**
 
-- 📫 How to reach me **https://www.linkedin.com/in/oliviabirks/**
+- 📫 How to reach me: **https://www.linkedin.com/in/oliviabirks/**
 
-- 📄 Know about my experiences [CV available upon request](CV available upon request)
+- 📄 Know about my experiences: CV available upon request
 
-- ⚡ Fun fact **I like to solve rubiks cubes**
+- ⚡ Fun fact: **I like to solve rubiks cubes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

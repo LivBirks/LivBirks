@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liv</h1>
-<h3 align="center">A Senior Customer Success Engineer at SafetyCulture, based in Manchester UK.</h3>
+<h3 align="center">A Senior Customer Success Engineer at SafetyCulture, based in Manchester (UK).</h3>
 
 - 🔭 I’m currently working on: [developing Workato Connector SDKs](https://github.com/LivBirks/simpro-workato-connector)
 

@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at: [Github](Github)
 
-- 💬 Ask me about: **Integrations and iPaas tools**
+- 💬 Ask me about: **Integrations and iPaaS tools**
 
 - 📫 How to reach me: **https://www.linkedin.com/in/oliviabirks/**
 

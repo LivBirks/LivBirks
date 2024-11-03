@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liv</h1>
 <h3 align="center">A Senior Customer Success Engineer at SafetyCulture, based in Manchester (UK).</h3>
 
-- 🔭 I’m currently working on: [developing Workato Connector SDKs](https://github.com/LivBirks/simpro-workato-connector)
+- 🔭 I’m currently working on: [Data Stuctures and Algorithms](https://github.com/LivBirks/leet-code)
 
 - 🌱 I’m currently learning: **C#**
 

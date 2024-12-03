@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Data Stuctures and Algorithms](https://github.com/LivBirks/leet-code)
 
-- 🌱 I’m currently learning: **C#**
+- 🌱 I’m currently learning: **C#** and **Golang**
 
 - 👨‍💻 All of my projects are available at: [Github](Github)
 

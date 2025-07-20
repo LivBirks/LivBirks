@@ -3,7 +3,7 @@
 
 - 📍 I’m based in **Manchester (UK)**
 
-- 🌱 I’m currently learning **React, Go, C#**
+- 🌱 I’m currently learning **React, Go, C#**, Ruby
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livbirks&label=Profile%20views&color=0e75b6&style=flat" alt="livbirks" /> </p>
 

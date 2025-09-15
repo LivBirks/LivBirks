@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liv</h1>
-<h3 align="center">A Senior Customer Success Engineer at SafetyCulture</h3>
+<h3 align="center">A Software Engineer at Connex AI</h3>
 
 - 📍 I’m based in **Manchester (UK)**
 
-- 🌱 I’m currently learning **React, Go, C#**, Ruby
+- 🌱 I’m currently learning **React, TypeScript, Node.JS**, 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livbirks&label=Profile%20views&color=0e75b6&style=flat" alt="livbirks" /> </p>
 

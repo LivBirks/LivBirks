@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liv</h1>
-<h3 align="center">A Software Engineer at Connex AI</h3>
+<h3 align="center"></h3>
 
 - 📍 I’m based in **Manchester (UK)**
 
